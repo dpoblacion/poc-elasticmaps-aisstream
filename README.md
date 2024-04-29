@@ -13,3 +13,7 @@ This repo contains a POC to display information on the Kibana map by consuming r
 2. Run `docker compose up`
 3. Load kibana using http://localhost:5601/ (credentials in env file)
 3. Import map.ndjson on ELK 
+
+
+https://github.com/dpoblacion/poc-elasticmaps-aisstream/assets/4161120/f64ba1e5-dac9-4894-a416-7fdd11988aa3
+
